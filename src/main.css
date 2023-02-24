@@ -1,0 +1,12 @@
+body {
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgb(109, 143, 215) 0%, rgb(84, 84, 148) 0%, rgb(10, 78, 91) 100%);
+  color: white;
+}
+body::-webkit-scrollbar {
+  width: 15px;
+  background: rgb(63, 63, 63);
+}
+body::-webkit-scrollbar-thumb{
+  background: #535493;
+  border-radius: 50px;
+}
